@@ -1,0 +1,7 @@
+__pycache__
+*.pyc
+.pytest_cache
+tickets.db
+chroma_store
+models/*.joblib
+.env

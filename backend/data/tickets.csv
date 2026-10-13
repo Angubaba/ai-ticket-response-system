@@ -1,0 +1,641 @@
+subject,description,category,solution
+Payment failed,"Hello support, i got a notice that my last payment failed and I need to update my card details.",Billing,Update the payment method in billing settings and retry the payment.
+Delivery taking too long,I need the tracking number for my recent order. This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Mobile app not loading,Please help. the mobile app crashes every time I open it.,Technical,Clear the app cache and update to the latest app version.
+Mobile app not loading,The app is stuck on the loading screen and never opens.,Technical,Clear the app cache and update to the latest app version.
+Card declined,My payment was declined because my card expired. How can I use a new card? Thanks.,Billing,Update the payment method in billing settings and retry the payment.
+Remove my personal information,"Hi, i want all of my personal data deleted from your systems.",Privacy,Submit a data deletion request through the privacy center.
+Mobile app not loading,The app is stuck on the loading screen and never opens. Thanks.,Technical,Clear the app cache and update to the latest app version.
+Change delivery address,My order should go to my office instead of my home address.,Shipping,Update the delivery address before the order ships.
+Request billing statement,"Hi team, my finance team needs a PDF invoice for our subscription payment.",Billing,Download the invoice from the billing history page.
+Cannot pair my device,"I can't pair the device over Bluetooth, it keeps failing.",Technical,Restart the device and pair it again through the app.
+Account suspended after login attempts,"Hello support, i'm locked out because of too many incorrect attempts and the lock isn't lifting.",Account,Verify your identity to unlock the locked account.
+Charged twice,Please help. there is a duplicate transaction on my bill. How do I get my money back?,Billing,Request a refund for the duplicate charge through the billing portal.
+Cancel my subscription,"Hello support, how do I unsubscribe from the premium plan? I no longer need it.",Billing,Cancel the subscription from the subscription tab in account settings.
+Change delivery address,I moved recently and need my package sent to my new address. This is quite frustrating.,Shipping,Update the delivery address before the order ships.
+Need to update address on order,Urgent: please update the delivery address on my pending order. This is quite frustrating.,Shipping,Update the delivery address before the order ships.
+App keeps crashing,Urgent: pages in the app don't load and it shows a blank screen. Thanks.,Technical,Clear the app cache and update to the latest app version.
+Unable to complete payment,"Urgent: billing failed on my subscription renewal, please help me fix the card.",Billing,Update the payment method in billing settings and retry the payment.
+Order not arrived yet,The estimated delivery date has passed and I haven't received anything. Please advise.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+End my plan,I'd like to end my membership and avoid future charges. Thanks.,Billing,Cancel the subscription from the subscription tab in account settings.
+Cannot pair my device,Pairing keeps timing out when I try to add my device.,Technical,Restart the device and pair it again through the app.
+Need to use a new email,"Hi team, i entered a typo in my email when signing up and want to correct it. Thanks in advance!",Account,Update the email address from the account settings page.
+Where is my order,Please help. my delivery is late and I want to know where my parcel is right now. Thanks.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Password not working,"Hi team, every time I enter my password it says incorrect. I think I forgot it. Thanks.",Account,Reset the password using the account recovery process.
+Setup instructions,Where can I find a guide for configuring my first project?,Product,Follow the getting-started guide in the help center for setup steps.
+Setup instructions,Can you explain how to use the reporting feature step by step? Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+Charged twice,I was charged twice for the same order this month. Please refund one payment.,Billing,Request a refund for the duplicate charge through the billing portal.
+Received damaged item,The product I received was broken when I opened the box.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Forgot my password,i need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+Lost my phone 2FA,I got a new phone and my authenticator app no longer has my codes.,Account,Reconfigure two-factor authentication using your backup codes.
+Request billing statement,where can I download the receipt for my recent purchase?,Billing,Download the invoice from the billing history page.
+Wrong shipping address,"Hello support, i moved recently and need my package sent to my new address.",Shipping,Update the delivery address before the order ships.
+Need to use a new email,I entered a typo in my email when signing up and want to correct it.,Account,Update the email address from the account settings page.
+Send order to a different address,"Hi team, my order should go to my office instead of my home address.",Shipping,Update the delivery address before the order ships.
+Stop auto renewal,How do I unsubscribe from the premium plan? I no longer need it. This is quite frustrating.,Billing,Cancel the subscription from the subscription tab in account settings.
+Change delivery address,my order should go to my office instead of my home address. Please advise.,Shipping,Update the delivery address before the order ships.
+App keeps crashing,"Hi, the mobile app crashes every time I open it. This is quite frustrating.",Technical,Clear the app cache and update to the latest app version.
+Remove my personal information,"Hi team, i no longer use the service and want my data removed permanently.",Privacy,Submit a data deletion request through the privacy center.
+GDPR data erasure,I want all of my personal data deleted from your systems. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Cannot pair my device,The device lost its connection and doesn't appear in the app anymore. This is quite frustrating.,Technical,Restart the device and pair it again through the app.
+Account locked,My account says it is locked after several failed login attempts. Thanks in advance!,Account,Verify your identity to unlock the locked account.
+Device offline in app,"i can't pair the device over Bluetooth, it keeps failing. This is quite frustrating.",Technical,Restart the device and pair it again through the app.
+Mobile app not loading,Please help. the app is stuck on the loading screen and never opens. This is quite frustrating.,Technical,Clear the app cache and update to the latest app version.
+Delivery taking too long,The estimated delivery date has passed and I haven't received anything. This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Locked out too many attempts,i got a message that my account was temporarily blocked for suspicious activity. Thanks.,Account,Verify your identity to unlock the locked account.
+Device offline in app,Pairing keeps timing out when I try to add my device.,Technical,Restart the device and pair it again through the app.
+Cannot pair my device,"Hi, pairing keeps timing out when I try to add my device.",Technical,Restart the device and pair it again through the app.
+Payment failed,I got a notice that my last payment failed and I need to update my card details.,Billing,Update the payment method in billing settings and retry the payment.
+Order not arrived yet,How can I check the shipping status of my package? This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Change delivery address,There's a typo in the street name of the address for my order.,Shipping,Update the delivery address before the order ships.
+Double billing this month,my card was billed double and I need the extra amount returned.,Billing,Request a refund for the duplicate charge through the billing portal.
+Where can I get my receipt,I need a copy of last month's invoice for my accounting records.,Billing,Download the invoice from the billing history page.
+Unable to log in,i forgot my password and cannot access my account. Please advise.,Account,Reset the password using the account recovery process.
+Payment failed,i got a notice that my last payment failed and I need to update my card details.,Billing,Update the payment method in billing settings and retry the payment.
+Payment method expired,Credit card declined at checkout and I want to try a different payment method. Thanks in advance!,Billing,Update the payment method in billing settings and retry the payment.
+App is very slow,pages in the app don't load and it shows a blank screen. Thanks.,Technical,Clear the app cache and update to the latest app version.
+Need invoice copy,i can't find my past invoices and need them for reimbursement.,Billing,Download the invoice from the billing history page.
+2FA verification failing,my authentication codes don't work and I can't pass the verification step.,Account,Reconfigure two-factor authentication using your backup codes.
+App keeps crashing,Pages in the app don't load and it shows a blank screen. This is quite frustrating.,Technical,Clear the app cache and update to the latest app version.
+Wrong email on my profile,I want my notifications going to a different email address.,Account,Update the email address from the account settings page.
+Wrong email on my profile,"My old email address is no longer active, how do I update it?",Account,Update the email address from the account settings page.
+Refund for extra charge,My card was billed double and I need the extra amount returned.,Billing,Request a refund for the duplicate charge through the billing portal.
+Two-factor code not working,"Hi team, i lost the phone that I use for 2FA and can't sign in.",Account,Reconfigure two-factor authentication using your backup codes.
+Wrong product delivered,The package contained the wrong size and I want to return it. Please advise.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Stop auto renewal,Please help. how do I unsubscribe from the premium plan? I no longer need it.,Billing,Cancel the subscription from the subscription tab in account settings.
+Cannot reach the platform,I get a timeout error on every page since this morning.,Technical,Check the service status page and retry once the outage is resolved.
+Account suspended after login attempts,I'm locked out because of too many incorrect attempts and the lock isn't lifting. This is quite frustrating.,Account,Verify your identity to unlock the locked account.
+Authenticator app issue,My authentication codes don't work and I can't pass the verification step.,Account,Reconfigure two-factor authentication using your backup codes.
+Card declined,"Hi, credit card declined at checkout and I want to try a different payment method.",Billing,Update the payment method in billing settings and retry the payment.
+Order not arrived yet,"Hi team, the estimated delivery date has passed and I haven't received anything. Please advise.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Setup instructions,I'm new here and need help setting up my workspace. Thanks.,Product,Follow the getting-started guide in the help center for setup steps.
+Authenticator app issue,The two-factor verification code is always rejected when I log in. This is quite frustrating.,Account,Reconfigure two-factor authentication using your backup codes.
+Change delivery address,I moved recently and need my package sent to my new address.,Shipping,Update the delivery address before the order ships.
+Cancel my subscription,i want to cancel my subscription before it renews next week. Thanks.,Billing,Cancel the subscription from the subscription tab in account settings.
+Wrong product delivered,Urgent: my order arrived damaged and I would like a replacement.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Need to update address on order,I moved recently and need my package sent to my new address.,Shipping,Update the delivery address before the order ships.
+App is very slow,The application closes by itself right after launch. Please advise.,Technical,Clear the app cache and update to the latest app version.
+Delete my data,I no longer use the service and want my data removed permanently. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Wrong email on my profile,"my old email address is no longer active, how do I update it? Thanks.",Account,Update the email address from the account settings page.
+GDPR data erasure,Please help. i'd like to know how to have my profile and history erased. Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+Need to return my order,Urgent: the item is defective and I need to send it back for a replacement. Please advise.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Order not arrived yet,How can I check the shipping status of my package? Please advise.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Update email on account,"Urgent: my old email address is no longer active, how do I update it?",Account,Update the email address from the account settings page.
+Invoice for accounting,Please help. i need a copy of last month's invoice for my accounting records.,Billing,Download the invoice from the billing history page.
+Where is my order,"Hello support, my delivery is late and I want to know where my parcel is right now. This is quite frustrating.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Cancel my subscription,i'd like to end my membership and avoid future charges.,Billing,Cancel the subscription from the subscription tab in account settings.
+Send order to a different address,Please help. i entered the wrong shipping address on my order. Can I change it?,Shipping,Update the delivery address before the order ships.
+My account has been blocked,I got a message that my account was temporarily blocked for suspicious activity. This is quite frustrating.,Account,Verify your identity to unlock the locked account.
+Need to update address on order,"Hi team, my order should go to my office instead of my home address. This is quite frustrating.",Shipping,Update the delivery address before the order ships.
+How to use a feature,Urgent: where can I find a guide for configuring my first project?,Product,Follow the getting-started guide in the help center for setup steps.
+Mobile app not loading,Please help. the application closes by itself right after launch. This is quite frustrating.,Technical,Clear the app cache and update to the latest app version.
+Account locked,"Hi, i'm locked out because of too many incorrect attempts and the lock isn't lifting.",Account,Verify your identity to unlock the locked account.
+Cancel my subscription,How do I unsubscribe from the premium plan? I no longer need it. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Card declined,My payment was declined because my card expired. How can I use a new card?,Billing,Update the payment method in billing settings and retry the payment.
+Remove my personal information,"Hi team, please delete my account and everything associated with it. Thanks in advance!",Privacy,Submit a data deletion request through the privacy center.
+Request billing statement,I can't find my past invoices and need them for reimbursement. Thanks in advance!,Billing,Download the invoice from the billing history page.
+Update email on account,I want my notifications going to a different email address.,Account,Update the email address from the account settings page.
+Change my email address,"Hi, i entered a typo in my email when signing up and want to correct it.",Account,Update the email address from the account settings page.
+Wrong email on my profile,i changed jobs and need to switch the email on my account to a new one. Thanks.,Account,Update the email address from the account settings page.
+Locked out too many attempts,I'm locked out because of too many incorrect attempts and the lock isn't lifting. Thanks in advance!,Account,Verify your identity to unlock the locked account.
+Where can I get my receipt,Where can I download the receipt for my recent purchase?,Billing,Download the invoice from the billing history page.
+Order not arrived yet,"Hi, i need the tracking number for my recent order.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Authenticator app issue,The two-factor verification code is always rejected when I log in.,Account,Reconfigure two-factor authentication using your backup codes.
+Payment failed,Credit card declined at checkout and I want to try a different payment method. Thanks.,Billing,Update the payment method in billing settings and retry the payment.
+Need invoice copy,"Hi, i can't find my past invoices and need them for reimbursement. Thanks.",Billing,Download the invoice from the billing history page.
+Cannot pair my device,After a power cut my device stopped syncing with the app.,Technical,Restart the device and pair it again through the app.
+Service is down,I get a timeout error on every page since this morning. Please advise.,Technical,Check the service status page and retry once the outage is resolved.
+Cancel my subscription,I'd like to end my membership and avoid future charges. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Service is down,"Hello support, i get a timeout error on every page since this morning. Thanks.",Technical,Check the service status page and retry once the outage is resolved.
+Lost my phone 2FA,"Hi team, the two-factor verification code is always rejected when I log in. Please advise.",Account,Reconfigure two-factor authentication using your backup codes.
+Login keeps failing,I need to change my password because I'm locked out of my profile. Thanks in advance!,Account,Reset the password using the account recovery process.
+Received damaged item,I got a different item than what I ordered. How do I exchange it? Thanks.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Track my package,Please help. i placed an order a week ago and it still hasn't arrived. Where is it? Thanks.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Password not working,I need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+Bluetooth pairing fails,the device lost its connection and doesn't appear in the app anymore.,Technical,Restart the device and pair it again through the app.
+Need to use a new email,I want my notifications going to a different email address.,Account,Update the email address from the account settings page.
+Change delivery address,There's a typo in the street name of the address for my order. Thanks in advance!,Shipping,Update the delivery address before the order ships.
+Charged twice,"Hi, i see two identical charges on my credit card statement for one subscription.",Billing,Request a refund for the duplicate charge through the billing portal.
+Remove my personal information,i'd like to know how to have my profile and history erased. Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+Cannot reach the platform,"Hello support, i get a timeout error on every page since this morning. This is quite frustrating.",Technical,Check the service status page and retry once the outage is resolved.
+Need to return my order,The item is defective and I need to send it back for a replacement.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Change my email address,I changed jobs and need to switch the email on my account to a new one. This is quite frustrating.,Account,Update the email address from the account settings page.
+Locked out too many attempts,I'm locked out because of too many incorrect attempts and the lock isn't lifting. Please advise.,Account,Verify your identity to unlock the locked account.
+Service is down,i get a timeout error on every page since this morning. Please advise.,Technical,Check the service status page and retry once the outage is resolved.
+Need to return my order,The package contained the wrong size and I want to return it.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Getting server error 500,I get a timeout error on every page since this morning.,Technical,Check the service status page and retry once the outage is resolved.
+App keeps crashing,since the last update the app freezes and lags a lot.,Technical,Clear the app cache and update to the latest app version.
+Payment method expired,My payment was declined because my card expired. How can I use a new card? Thanks in advance!,Billing,Update the payment method in billing settings and retry the payment.
+Invoice for accounting,"Hi team, please send me the invoice with the tax details for my order. Please advise.",Billing,Download the invoice from the billing history page.
+2FA verification failing,I never receive the SMS verification code for two-factor login. Thanks in advance!,Account,Reconfigure two-factor authentication using your backup codes.
+Received damaged item,the product I received was broken when I opened the box.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Where is my order,"Hi, how can I check the shipping status of my package? This is quite frustrating.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Website not loading,The service appears to be offline. Is there an outage? This is quite frustrating.,Technical,Check the service status page and retry once the outage is resolved.
+Received damaged item,The product I received was broken when I opened the box. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+My account has been blocked,"Hi, i got a message that my account was temporarily blocked for suspicious activity. Please advise.",Account,Verify your identity to unlock the locked account.
+Device not connecting,"I can't pair the device over Bluetooth, it keeps failing. Please advise.",Technical,Restart the device and pair it again through the app.
+Account locked,I'm locked out because of too many incorrect attempts and the lock isn't lifting.,Account,Verify your identity to unlock the locked account.
+Need invoice copy,"Hi team, my finance team needs a PDF invoice for our subscription payment. Please advise.",Billing,Download the invoice from the billing history page.
+Update email on account,Please help. i changed jobs and need to switch the email on my account to a new one. This is quite frustrating.,Account,Update the email address from the account settings page.
+Delivery taking too long,I placed an order a week ago and it still hasn't arrived. Where is it? Thanks.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Invoice for accounting,I need a copy of last month's invoice for my accounting records.,Billing,Download the invoice from the billing history page.
+Delete my data,how can I request the erasure of my personal information under GDPR? Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+How to unsubscribe,please stop my plan from renewing automatically. Please advise.,Billing,Cancel the subscription from the subscription tab in account settings.
+Two-factor code not working,my authentication codes don't work and I can't pass the verification step. This is quite frustrating.,Account,Reconfigure two-factor authentication using your backup codes.
+Order not arrived yet,I need the tracking number for my recent order. Thanks in advance!,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Refund for extra charge,Please help. i was charged twice for the same order this month. Please refund one payment. This is quite frustrating.,Billing,Request a refund for the duplicate charge through the billing portal.
+My account has been blocked,I got a message that my account was temporarily blocked for suspicious activity.,Account,Verify your identity to unlock the locked account.
+Item arrived broken,I got a different item than what I ordered. How do I exchange it? This is quite frustrating.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Received damaged item,Please help. the product I received was broken when I opened the box. Please advise.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Can't sign in to my account,I forgot my password and cannot access my account.,Account,Reset the password using the account recovery process.
+How do I set up,can you explain how to use the reporting feature step by step? Thanks.,Product,Follow the getting-started guide in the help center for setup steps.
+Update email on account,I entered a typo in my email when signing up and want to correct it. This is quite frustrating.,Account,Update the email address from the account settings page.
+Refund for extra charge,There is a duplicate transaction on my bill. How do I get my money back?,Billing,Request a refund for the duplicate charge through the billing portal.
+Delivery taking too long,i need the tracking number for my recent order. This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Login keeps failing,Every time I enter my password it says incorrect. I think I forgot it. Thanks.,Account,Reset the password using the account recovery process.
+Delivery taking too long,How can I check the shipping status of my package? Thanks in advance!,Shipping,Track the order using the tracking link in the shipping confirmation email.
+App is very slow,Pages in the app don't load and it shows a blank screen.,Technical,Clear the app cache and update to the latest app version.
+Device offline in app,Pairing keeps timing out when I try to add my device. Thanks.,Technical,Restart the device and pair it again through the app.
+Locked out too many attempts,i'm locked out because of too many incorrect attempts and the lock isn't lifting. Please advise.,Account,Verify your identity to unlock the locked account.
+Card declined,Credit card declined at checkout and I want to try a different payment method.,Billing,Update the payment method in billing settings and retry the payment.
+Duplicate payment on my card,there is a duplicate transaction on my bill. How do I get my money back? Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+Account suspended after login attempts,My account says it is locked after several failed login attempts.,Account,Verify your identity to unlock the locked account.
+End my plan,I'd like to end my membership and avoid future charges. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Account locked,My account says it is locked after several failed login attempts. Please advise.,Account,Verify your identity to unlock the locked account.
+Double billing this month,Urgent: there is a duplicate transaction on my bill. How do I get my money back? Thanks in advance!,Billing,Request a refund for the duplicate charge through the billing portal.
+Track my package,"Hi, how can I check the shipping status of my package?",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Device not connecting,"I can't pair the device over Bluetooth, it keeps failing. Thanks in advance!",Technical,Restart the device and pair it again through the app.
+Device not connecting,Please help. the device lost its connection and doesn't appear in the app anymore.,Technical,Restart the device and pair it again through the app.
+Device not connecting,the device lost its connection and doesn't appear in the app anymore. Please advise.,Technical,Restart the device and pair it again through the app.
+Remove my personal information,please delete my account and everything associated with it.,Privacy,Submit a data deletion request through the privacy center.
+2FA verification failing,"Hello support, my authentication codes don't work and I can't pass the verification step.",Account,Reconfigure two-factor authentication using your backup codes.
+Two-factor code not working,"Hello support, my authentication codes don't work and I can't pass the verification step. Thanks in advance!",Account,Reconfigure two-factor authentication using your backup codes.
+Lost my phone 2FA,I never receive the SMS verification code for two-factor login. Please advise.,Account,Reconfigure two-factor authentication using your backup codes.
+Authenticator app issue,I lost the phone that I use for 2FA and can't sign in.,Account,Reconfigure two-factor authentication using your backup codes.
+Cannot reach the platform,the service appears to be offline. Is there an outage? Please advise.,Technical,Check the service status page and retry once the outage is resolved.
+App freezes on startup,"Hello support, pages in the app don't load and it shows a blank screen.",Technical,Clear the app cache and update to the latest app version.
+Need to update address on order,There's a typo in the street name of the address for my order.,Shipping,Update the delivery address before the order ships.
+App is very slow,pages in the app don't load and it shows a blank screen. Thanks in advance!,Technical,Clear the app cache and update to the latest app version.
+Need invoice copy,I need a copy of last month's invoice for my accounting records. Thanks.,Billing,Download the invoice from the billing history page.
+Mobile app not loading,The mobile app crashes every time I open it. Thanks.,Technical,Clear the app cache and update to the latest app version.
+Charged twice,Please help. my card was billed double and I need the extra amount returned.,Billing,Request a refund for the duplicate charge through the billing portal.
+Charged twice,there is a duplicate transaction on my bill. How do I get my money back?,Billing,Request a refund for the duplicate charge through the billing portal.
+Service is down,i get a timeout error on every page since this morning. Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+Unable to log in,I can't remember my login password. How do I get back in?,Account,Reset the password using the account recovery process.
+Order not arrived yet,My delivery is late and I want to know where my parcel is right now. Thanks.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Need to update address on order,please update the delivery address on my pending order.,Shipping,Update the delivery address before the order ships.
+Website not loading,Nothing loads for me and my teammates also can't connect to the platform. Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+Payment failed,Urgent: my payment was declined because my card expired. How can I use a new card? Thanks.,Billing,Update the payment method in billing settings and retry the payment.
+Cannot reach the platform,The whole website is down and I keep getting a server error.,Technical,Check the service status page and retry once the outage is resolved.
+Remove my personal information,how can I request the erasure of my personal information under GDPR?,Privacy,Submit a data deletion request through the privacy center.
+Change delivery address,Urgent: i entered the wrong shipping address on my order. Can I change it?,Shipping,Update the delivery address before the order ships.
+Need help getting started,Can you explain how to use the reporting feature step by step? This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+Refund for extra charge,"Hello support, i was charged twice for the same order this month. Please refund one payment. Please advise.",Billing,Request a refund for the duplicate charge through the billing portal.
+Stop auto renewal,"Hi, i'd like to end my membership and avoid future charges. Thanks.",Billing,Cancel the subscription from the subscription tab in account settings.
+Track my package,"Hi team, the estimated delivery date has passed and I haven't received anything.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Duplicate payment on my card,i see two identical charges on my credit card statement for one subscription. Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+Refund for extra charge,Please help. i was charged twice for the same order this month. Please refund one payment.,Billing,Request a refund for the duplicate charge through the billing portal.
+Locked out too many attempts,I got a message that my account was temporarily blocked for suspicious activity.,Account,Verify your identity to unlock the locked account.
+How do I set up,I need a walkthrough on how to invite my team and set up permissions. This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+Bluetooth pairing fails,The device lost its connection and doesn't appear in the app anymore. Thanks.,Technical,Restart the device and pair it again through the app.
+Lost my phone 2FA,Please help. my authentication codes don't work and I can't pass the verification step.,Account,Reconfigure two-factor authentication using your backup codes.
+Wrong email on my profile,"Hello support, i want my notifications going to a different email address.",Account,Update the email address from the account settings page.
+2FA verification failing,my authentication codes don't work and I can't pass the verification step. Thanks.,Account,Reconfigure two-factor authentication using your backup codes.
+Website not loading,The whole website is down and I keep getting a server error.,Technical,Check the service status page and retry once the outage is resolved.
+Card declined,the payment keeps failing even though my card is valid. Please advise.,Billing,Update the payment method in billing settings and retry the payment.
+Double billing this month,My card was billed double and I need the extra amount returned. Thanks.,Billing,Request a refund for the duplicate charge through the billing portal.
+Two-factor code not working,"Hello support, i never receive the SMS verification code for two-factor login.",Account,Reconfigure two-factor authentication using your backup codes.
+Login keeps failing,Please help. every time I enter my password it says incorrect. I think I forgot it.,Account,Reset the password using the account recovery process.
+Delete my data,Please delete my account and everything associated with it.,Privacy,Submit a data deletion request through the privacy center.
+Wrong shipping address,i moved recently and need my package sent to my new address. This is quite frustrating.,Shipping,Update the delivery address before the order ships.
+App is very slow,pages in the app don't load and it shows a blank screen.,Technical,Clear the app cache and update to the latest app version.
+End my plan,i want to cancel my subscription before it renews next week.,Billing,Cancel the subscription from the subscription tab in account settings.
+App keeps crashing,Pages in the app don't load and it shows a blank screen.,Technical,Clear the app cache and update to the latest app version.
+Wrong email on my profile,Urgent: i changed jobs and need to switch the email on my account to a new one. Please advise.,Account,Update the email address from the account settings page.
+Received damaged item,The package contained the wrong size and I want to return it. Thanks.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Charged twice,My card was billed double and I need the extra amount returned. This is quite frustrating.,Billing,Request a refund for the duplicate charge through the billing portal.
+Wrong email on my profile,"Hello support, my old email address is no longer active, how do I update it?",Account,Update the email address from the account settings page.
+Received damaged item,the package contained the wrong size and I want to return it. This is quite frustrating.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Card declined,the payment keeps failing even though my card is valid. Thanks.,Billing,Update the payment method in billing settings and retry the payment.
+Cancel my subscription,Urgent: i want to cancel my subscription before it renews next week.,Billing,Cancel the subscription from the subscription tab in account settings.
+Service is down,Please help. i get a timeout error on every page since this morning.,Technical,Check the service status page and retry once the outage is resolved.
+Getting server error 500,Nothing loads for me and my teammates also can't connect to the platform.,Technical,Check the service status page and retry once the outage is resolved.
+Password not working,Please help. i need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+Card declined,"Hi team, my payment was declined because my card expired. How can I use a new card? This is quite frustrating.",Billing,Update the payment method in billing settings and retry the payment.
+App is very slow,since the last update the app freezes and lags a lot.,Technical,Clear the app cache and update to the latest app version.
+Payment method expired,The payment keeps failing even though my card is valid.,Billing,Update the payment method in billing settings and retry the payment.
+Mobile app not loading,the application closes by itself right after launch.,Technical,Clear the app cache and update to the latest app version.
+Can't sign in to my account,I need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+Request billing statement,"Hi, where can I download the receipt for my recent purchase? Thanks in advance!",Billing,Download the invoice from the billing history page.
+Account suspended after login attempts,I got a message that my account was temporarily blocked for suspicious activity. Thanks in advance!,Account,Verify your identity to unlock the locked account.
+Card declined,the payment keeps failing even though my card is valid. Thanks in advance!,Billing,Update the payment method in billing settings and retry the payment.
+Payment failed,"Hi team, credit card declined at checkout and I want to try a different payment method.",Billing,Update the payment method in billing settings and retry the payment.
+Change my email address,I changed jobs and need to switch the email on my account to a new one. Thanks in advance!,Account,Update the email address from the account settings page.
+Double billing this month,I was charged twice for the same order this month. Please refund one payment. Thanks.,Billing,Request a refund for the duplicate charge through the billing portal.
+Two-factor code not working,I lost the phone that I use for 2FA and can't sign in. This is quite frustrating.,Account,Reconfigure two-factor authentication using your backup codes.
+Duplicate payment on my card,"Hello support, i see two identical charges on my credit card statement for one subscription. This is quite frustrating.",Billing,Request a refund for the duplicate charge through the billing portal.
+Need help getting started,where can I find a guide for configuring my first project? Thanks.,Product,Follow the getting-started guide in the help center for setup steps.
+Item arrived broken,"Hi, i got a different item than what I ordered. How do I exchange it? Please advise.",Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Authenticator app issue,my authentication codes don't work and I can't pass the verification step. Please advise.,Account,Reconfigure two-factor authentication using your backup codes.
+How to unsubscribe,"Hi team, cancel my monthly plan, I'm switching to another service. Thanks in advance!",Billing,Cancel the subscription from the subscription tab in account settings.
+Cancel my subscription,i want to cancel my subscription before it renews next week. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Getting server error 500,the whole website is down and I keep getting a server error. Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+Payment method expired,"Hi, billing failed on my subscription renewal, please help me fix the card. Thanks.",Billing,Update the payment method in billing settings and retry the payment.
+Password not working,My password doesn't work anymore and I can't get into my account. Please advise.,Account,Reset the password using the account recovery process.
+Received damaged item,My order arrived damaged and I would like a replacement. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Website not loading,The service appears to be offline. Is there an outage?,Technical,Check the service status page and retry once the outage is resolved.
+Unable to complete payment,Please help. my payment was declined because my card expired. How can I use a new card? Thanks in advance!,Billing,Update the payment method in billing settings and retry the payment.
+How do I set up,Where can I find a guide for configuring my first project? This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+Remove my personal information,Urgent: i no longer use the service and want my data removed permanently.,Privacy,Submit a data deletion request through the privacy center.
+Update email on account,"My old email address is no longer active, how do I update it? Please advise.",Account,Update the email address from the account settings page.
+Forgot my password,"Lost my password, please help me regain access to my account.",Account,Reset the password using the account recovery process.
+Stop auto renewal,I'd like to end my membership and avoid future charges. This is quite frustrating.,Billing,Cancel the subscription from the subscription tab in account settings.
+Update email on account,"Hello support, i changed jobs and need to switch the email on my account to a new one.",Account,Update the email address from the account settings page.
+Getting server error 500,I get a timeout error on every page since this morning. Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+GDPR data erasure,"Hi, i'd like to know how to have my profile and history erased. Thanks.",Privacy,Submit a data deletion request through the privacy center.
+Cannot pair my device,Urgent: my device shows offline in the app and won't reconnect. Thanks.,Technical,Restart the device and pair it again through the app.
+Website not loading,Please help. nothing loads for me and my teammates also can't connect to the platform. Please advise.,Technical,Check the service status page and retry once the outage is resolved.
+Setup instructions,"Hi, where can I find a guide for configuring my first project?",Product,Follow the getting-started guide in the help center for setup steps.
+Invoice for accounting,Urgent: i can't find my past invoices and need them for reimbursement. Thanks in advance!,Billing,Download the invoice from the billing history page.
+How to use a feature,I need a walkthrough on how to invite my team and set up permissions.,Product,Follow the getting-started guide in the help center for setup steps.
+Delivery taking too long,Urgent: i placed an order a week ago and it still hasn't arrived. Where is it? This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Order not arrived yet,How can I check the shipping status of my package? Thanks.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Request account deletion,How can I request the erasure of my personal information under GDPR?,Privacy,Submit a data deletion request through the privacy center.
+How do I set up,Urgent: i can't figure out how to get started after signing up. This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+Item arrived broken,The package contained the wrong size and I want to return it. Thanks.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Device offline in app,"Hello support, pairing keeps timing out when I try to add my device. Thanks in advance!",Technical,Restart the device and pair it again through the app.
+Order not arrived yet,The estimated delivery date has passed and I haven't received anything. Thanks in advance!,Shipping,Track the order using the tracking link in the shipping confirmation email.
+App freezes on startup,Pages in the app don't load and it shows a blank screen. Thanks in advance!,Technical,Clear the app cache and update to the latest app version.
+Card declined,The payment keeps failing even though my card is valid. This is quite frustrating.,Billing,Update the payment method in billing settings and retry the payment.
+Stop auto renewal,Please stop my plan from renewing automatically.,Billing,Cancel the subscription from the subscription tab in account settings.
+Invoice for accounting,My finance team needs a PDF invoice for our subscription payment.,Billing,Download the invoice from the billing history page.
+Need to use a new email,Urgent: i entered a typo in my email when signing up and want to correct it.,Account,Update the email address from the account settings page.
+Unable to log in,i can't remember my login password. How do I get back in?,Account,Reset the password using the account recovery process.
+Login keeps failing,I can't remember my login password. How do I get back in?,Account,Reset the password using the account recovery process.
+Lost my phone 2FA,My authentication codes don't work and I can't pass the verification step. This is quite frustrating.,Account,Reconfigure two-factor authentication using your backup codes.
+2FA verification failing,"Hi, my authentication codes don't work and I can't pass the verification step. Thanks.",Account,Reconfigure two-factor authentication using your backup codes.
+Cannot reach the platform,"Hello support, nothing loads for me and my teammates also can't connect to the platform. This is quite frustrating.",Technical,Check the service status page and retry once the outage is resolved.
+Change delivery address,"Hi, please update the delivery address on my pending order. Thanks in advance!",Shipping,Update the delivery address before the order ships.
+Device not connecting,after a power cut my device stopped syncing with the app.,Technical,Restart the device and pair it again through the app.
+Unable to log in,Urgent: i need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+Received damaged item,My order arrived damaged and I would like a replacement.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+App freezes on startup,"Hi team, the mobile app crashes every time I open it. Thanks.",Technical,Clear the app cache and update to the latest app version.
+Cannot pair my device,the device lost its connection and doesn't appear in the app anymore. Thanks in advance!,Technical,Restart the device and pair it again through the app.
+Login keeps failing,I need to change my password because I'm locked out of my profile. This is quite frustrating.,Account,Reset the password using the account recovery process.
+Setup instructions,Can you explain how to use the reporting feature step by step? Thanks.,Product,Follow the getting-started guide in the help center for setup steps.
+Need help getting started,"Hi team, i can't figure out how to get started after signing up.",Product,Follow the getting-started guide in the help center for setup steps.
+App keeps crashing,the application closes by itself right after launch.,Technical,Clear the app cache and update to the latest app version.
+App freezes on startup,"Hi, since the last update the app freezes and lags a lot.",Technical,Clear the app cache and update to the latest app version.
+Service is down,I get a timeout error on every page since this morning. Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+Setup instructions,Can you explain how to use the reporting feature step by step?,Product,Follow the getting-started guide in the help center for setup steps.
+Device not connecting,"Hello support, pairing keeps timing out when I try to add my device. Thanks in advance!",Technical,Restart the device and pair it again through the app.
+Request billing statement,"Hi team, where can I download the receipt for my recent purchase? This is quite frustrating.",Billing,Download the invoice from the billing history page.
+Received damaged item,the product I received was broken when I opened the box. This is quite frustrating.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Change my email address,I entered a typo in my email when signing up and want to correct it. Thanks in advance!,Account,Update the email address from the account settings page.
+Can't sign in to my account,I can't remember my login password. How do I get back in? Please advise.,Account,Reset the password using the account recovery process.
+Card declined,My payment was declined because my card expired. How can I use a new card? Please advise.,Billing,Update the payment method in billing settings and retry the payment.
+Where can I get my receipt,please send me the invoice with the tax details for my order. This is quite frustrating.,Billing,Download the invoice from the billing history page.
+Send order to a different address,Urgent: i entered the wrong shipping address on my order. Can I change it?,Shipping,Update the delivery address before the order ships.
+Request account deletion,i'd like to know how to have my profile and history erased. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Need help getting started,i'm new here and need help setting up my workspace. Thanks in advance!,Product,Follow the getting-started guide in the help center for setup steps.
+My account has been blocked,My account says it is locked after several failed login attempts.,Account,Verify your identity to unlock the locked account.
+Setup instructions,i can't figure out how to get started after signing up. Thanks in advance!,Product,Follow the getting-started guide in the help center for setup steps.
+Cannot reach the platform,Nothing loads for me and my teammates also can't connect to the platform.,Technical,Check the service status page and retry once the outage is resolved.
+Password not working,every time I enter my password it says incorrect. I think I forgot it. This is quite frustrating.,Account,Reset the password using the account recovery process.
+Mobile app not loading,The application closes by itself right after launch.,Technical,Clear the app cache and update to the latest app version.
+Account locked,My account says it is locked after several failed login attempts. Thanks.,Account,Verify your identity to unlock the locked account.
+Payment method expired,Urgent: credit card declined at checkout and I want to try a different payment method. Thanks in advance!,Billing,Update the payment method in billing settings and retry the payment.
+Cannot pair my device,"i can't pair the device over Bluetooth, it keeps failing.",Technical,Restart the device and pair it again through the app.
+Wrong product delivered,Please help. the product I received was broken when I opened the box. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Stop auto renewal,"Hello support, i want to cancel my subscription before it renews next week. Thanks in advance!",Billing,Cancel the subscription from the subscription tab in account settings.
+GDPR data erasure,please delete my account and everything associated with it. Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+How do I set up,"Hi team, can you explain how to use the reporting feature step by step? Thanks in advance!",Product,Follow the getting-started guide in the help center for setup steps.
+Can't sign in to my account,"Lost my password, please help me regain access to my account. Thanks in advance!",Account,Reset the password using the account recovery process.
+Item arrived broken,Urgent: i got a different item than what I ordered. How do I exchange it?,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Change my email address,"My old email address is no longer active, how do I update it? Thanks in advance!",Account,Update the email address from the account settings page.
+Two-factor code not working,I never receive the SMS verification code for two-factor login.,Account,Reconfigure two-factor authentication using your backup codes.
+How to unsubscribe,Please help. please stop my plan from renewing automatically. Please advise.,Billing,Cancel the subscription from the subscription tab in account settings.
+Need help getting started,I need a walkthrough on how to invite my team and set up permissions. This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+Refund for extra charge,"Hi team, i was charged twice for the same order this month. Please refund one payment.",Billing,Request a refund for the duplicate charge through the billing portal.
+Where is my order,The estimated delivery date has passed and I haven't received anything. This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Refund for extra charge,My card was billed double and I need the extra amount returned. This is quite frustrating.,Billing,Request a refund for the duplicate charge through the billing portal.
+Getting server error 500,The service appears to be offline. Is there an outage? Thanks in advance!,Technical,Check the service status page and retry once the outage is resolved.
+Change delivery address,Please update the delivery address on my pending order. Thanks in advance!,Shipping,Update the delivery address before the order ships.
+Unable to complete payment,My payment was declined because my card expired. How can I use a new card?,Billing,Update the payment method in billing settings and retry the payment.
+Card declined,"Hi, the payment keeps failing even though my card is valid. Thanks in advance!",Billing,Update the payment method in billing settings and retry the payment.
+Update email on account,I changed jobs and need to switch the email on my account to a new one.,Account,Update the email address from the account settings page.
+How to use a feature,i need a walkthrough on how to invite my team and set up permissions.,Product,Follow the getting-started guide in the help center for setup steps.
+Duplicate payment on my card,I see two identical charges on my credit card statement for one subscription. Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+Where can I get my receipt,I need a copy of last month's invoice for my accounting records. Please advise.,Billing,Download the invoice from the billing history page.
+Order not arrived yet,"Hello support, i need the tracking number for my recent order.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Request account deletion,I want all of my personal data deleted from your systems. This is quite frustrating.,Privacy,Submit a data deletion request through the privacy center.
+Wrong shipping address,i moved recently and need my package sent to my new address.,Shipping,Update the delivery address before the order ships.
+Mobile app not loading,"Hi, the app is stuck on the loading screen and never opens. Please advise.",Technical,Clear the app cache and update to the latest app version.
+Wrong shipping address,My order should go to my office instead of my home address. Thanks.,Shipping,Update the delivery address before the order ships.
+Account locked,"Hi, my account says it is locked after several failed login attempts. Thanks in advance!",Account,Verify your identity to unlock the locked account.
+Forgot my password,I forgot my password and cannot access my account.,Account,Reset the password using the account recovery process.
+Remove my personal information,"Hi, how can I request the erasure of my personal information under GDPR? Thanks in advance!",Privacy,Submit a data deletion request through the privacy center.
+My account has been blocked,My account says it is locked after several failed login attempts. Thanks.,Account,Verify your identity to unlock the locked account.
+Item arrived broken,"Hello support, the package contained the wrong size and I want to return it. Please advise.",Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Wrong shipping address,Please update the delivery address on my pending order.,Shipping,Update the delivery address before the order ships.
+Payment method expired,"Billing failed on my subscription renewal, please help me fix the card. Thanks.",Billing,Update the payment method in billing settings and retry the payment.
+Cannot pair my device,"Hi, pairing keeps timing out when I try to add my device. Please advise.",Technical,Restart the device and pair it again through the app.
+Duplicate payment on my card,"Hi team, i was charged twice for the same order this month. Please refund one payment. This is quite frustrating.",Billing,Request a refund for the duplicate charge through the billing portal.
+Remove my personal information,I want all of my personal data deleted from your systems. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Getting server error 500,The whole website is down and I keep getting a server error.,Technical,Check the service status page and retry once the outage is resolved.
+End my plan,How do I unsubscribe from the premium plan? I no longer need it.,Billing,Cancel the subscription from the subscription tab in account settings.
+Need to update address on order,My order should go to my office instead of my home address.,Shipping,Update the delivery address before the order ships.
+Card declined,My payment was declined because my card expired. How can I use a new card? This is quite frustrating.,Billing,Update the payment method in billing settings and retry the payment.
+Stop auto renewal,How do I unsubscribe from the premium plan? I no longer need it. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Stop auto renewal,how do I unsubscribe from the premium plan? I no longer need it. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Duplicate payment on my card,i was charged twice for the same order this month. Please refund one payment. Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+App freezes on startup,the application closes by itself right after launch. Thanks in advance!,Technical,Clear the app cache and update to the latest app version.
+Authenticator app issue,I got a new phone and my authenticator app no longer has my codes.,Account,Reconfigure two-factor authentication using your backup codes.
+Need invoice copy,Please send me the invoice with the tax details for my order.,Billing,Download the invoice from the billing history page.
+Login keeps failing,"Hi, every time I enter my password it says incorrect. I think I forgot it. This is quite frustrating.",Account,Reset the password using the account recovery process.
+Getting server error 500,"Hello support, i get a timeout error on every page since this morning.",Technical,Check the service status page and retry once the outage is resolved.
+Account locked,"Hi, account locked after I typed the wrong code too many times. This is quite frustrating.",Account,Verify your identity to unlock the locked account.
+How to use a feature,i need a walkthrough on how to invite my team and set up permissions. Thanks.,Product,Follow the getting-started guide in the help center for setup steps.
+Authenticator app issue,I never receive the SMS verification code for two-factor login.,Account,Reconfigure two-factor authentication using your backup codes.
+Setup instructions,i need a walkthrough on how to invite my team and set up permissions. This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+2FA verification failing,The two-factor verification code is always rejected when I log in.,Account,Reconfigure two-factor authentication using your backup codes.
+App is very slow,the application closes by itself right after launch. Thanks in advance!,Technical,Clear the app cache and update to the latest app version.
+Device not connecting,"Hi team, my device shows offline in the app and won't reconnect. This is quite frustrating.",Technical,Restart the device and pair it again through the app.
+Cancel my subscription,"Cancel my monthly plan, I'm switching to another service.",Billing,Cancel the subscription from the subscription tab in account settings.
+Need to use a new email,"Hi team, my old email address is no longer active, how do I update it?",Account,Update the email address from the account settings page.
+Change delivery address,There's a typo in the street name of the address for my order. This is quite frustrating.,Shipping,Update the delivery address before the order ships.
+Two-factor code not working,The two-factor verification code is always rejected when I log in.,Account,Reconfigure two-factor authentication using your backup codes.
+App keeps crashing,Since the last update the app freezes and lags a lot. Thanks.,Technical,Clear the app cache and update to the latest app version.
+Device offline in app,"Hi, pairing keeps timing out when I try to add my device.",Technical,Restart the device and pair it again through the app.
+Device not connecting,"Hi, pairing keeps timing out when I try to add my device.",Technical,Restart the device and pair it again through the app.
+Double billing this month,"Hi team, i was charged twice for the same order this month. Please refund one payment. Thanks in advance!",Billing,Request a refund for the duplicate charge through the billing portal.
+Wrong shipping address,"Hi team, there's a typo in the street name of the address for my order.",Shipping,Update the delivery address before the order ships.
+Duplicate payment on my card,"Hello support, there is a duplicate transaction on my bill. How do I get my money back? This is quite frustrating.",Billing,Request a refund for the duplicate charge through the billing portal.
+Change my email address,"Hello support, my old email address is no longer active, how do I update it? Thanks in advance!",Account,Update the email address from the account settings page.
+2FA verification failing,I lost the phone that I use for 2FA and can't sign in. Please advise.,Account,Reconfigure two-factor authentication using your backup codes.
+Payment failed,"Hi, my payment was declined because my card expired. How can I use a new card?",Billing,Update the payment method in billing settings and retry the payment.
+Request account deletion,"Hi, how can I request the erasure of my personal information under GDPR? Thanks in advance!",Privacy,Submit a data deletion request through the privacy center.
+Two-factor code not working,the two-factor verification code is always rejected when I log in.,Account,Reconfigure two-factor authentication using your backup codes.
+Unable to log in,my password doesn't work anymore and I can't get into my account.,Account,Reset the password using the account recovery process.
+Two-factor code not working,I got a new phone and my authenticator app no longer has my codes. Thanks.,Account,Reconfigure two-factor authentication using your backup codes.
+Cannot pair my device,after a power cut my device stopped syncing with the app.,Technical,Restart the device and pair it again through the app.
+Update email on account,"Hi team, i changed jobs and need to switch the email on my account to a new one.",Account,Update the email address from the account settings page.
+How do I set up,"Hi, i can't figure out how to get started after signing up.",Product,Follow the getting-started guide in the help center for setup steps.
+App freezes on startup,The app is stuck on the loading screen and never opens. This is quite frustrating.,Technical,Clear the app cache and update to the latest app version.
+Received damaged item,The item is defective and I need to send it back for a replacement. Please advise.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Unable to complete payment,My payment was declined because my card expired. How can I use a new card? Please advise.,Billing,Update the payment method in billing settings and retry the payment.
+Cannot pair my device,"Hi, after a power cut my device stopped syncing with the app. Thanks.",Technical,Restart the device and pair it again through the app.
+Service is down,the service appears to be offline. Is there an outage?,Technical,Check the service status page and retry once the outage is resolved.
+Send order to a different address,Urgent: i entered the wrong shipping address on my order. Can I change it? This is quite frustrating.,Shipping,Update the delivery address before the order ships.
+Need to update address on order,Please update the delivery address on my pending order.,Shipping,Update the delivery address before the order ships.
+Send order to a different address,Please help. i moved recently and need my package sent to my new address. Please advise.,Shipping,Update the delivery address before the order ships.
+Device offline in app,Please help. the device lost its connection and doesn't appear in the app anymore. Thanks.,Technical,Restart the device and pair it again through the app.
+How do I set up,I can't figure out how to get started after signing up.,Product,Follow the getting-started guide in the help center for setup steps.
+Device not connecting,The device lost its connection and doesn't appear in the app anymore.,Technical,Restart the device and pair it again through the app.
+Unable to log in,Every time I enter my password it says incorrect. I think I forgot it. This is quite frustrating.,Account,Reset the password using the account recovery process.
+Delete my data,I want all of my personal data deleted from your systems. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Item arrived broken,The product I received was broken when I opened the box. Thanks.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Track my package,My delivery is late and I want to know where my parcel is right now. Please advise.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Locked out too many attempts,Account locked after I typed the wrong code too many times.,Account,Verify your identity to unlock the locked account.
+Setup instructions,I can't figure out how to get started after signing up. Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+Duplicate payment on my card,I was charged twice for the same order this month. Please refund one payment. Thanks in advance!,Billing,Request a refund for the duplicate charge through the billing portal.
+Update email on account,Urgent: i want my notifications going to a different email address. Thanks in advance!,Account,Update the email address from the account settings page.
+Payment failed,"Hi, credit card declined at checkout and I want to try a different payment method. Please advise.",Billing,Update the payment method in billing settings and retry the payment.
+Refund for extra charge,"Hello support, there is a duplicate transaction on my bill. How do I get my money back? This is quite frustrating.",Billing,Request a refund for the duplicate charge through the billing portal.
+Service is down,"Hi team, i get a timeout error on every page since this morning.",Technical,Check the service status page and retry once the outage is resolved.
+Where is my order,i placed an order a week ago and it still hasn't arrived. Where is it? Thanks in advance!,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Need to use a new email,"my old email address is no longer active, how do I update it?",Account,Update the email address from the account settings page.
+Invoice for accounting,Urgent: i can't find my past invoices and need them for reimbursement. Please advise.,Billing,Download the invoice from the billing history page.
+Card declined,"billing failed on my subscription renewal, please help me fix the card. Thanks.",Billing,Update the payment method in billing settings and retry the payment.
+Authenticator app issue,I lost the phone that I use for 2FA and can't sign in. Thanks.,Account,Reconfigure two-factor authentication using your backup codes.
+Cannot reach the platform,I get a timeout error on every page since this morning. Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+Device not connecting,"Hello support, after a power cut my device stopped syncing with the app. Thanks.",Technical,Restart the device and pair it again through the app.
+GDPR data erasure,I no longer use the service and want my data removed permanently.,Privacy,Submit a data deletion request through the privacy center.
+Change delivery address,"Hi team, there's a typo in the street name of the address for my order. Thanks.",Shipping,Update the delivery address before the order ships.
+Invoice for accounting,I can't find my past invoices and need them for reimbursement.,Billing,Download the invoice from the billing history page.
+Need to use a new email,i want my notifications going to a different email address. This is quite frustrating.,Account,Update the email address from the account settings page.
+Device not connecting,"Hello support, the device lost its connection and doesn't appear in the app anymore.",Technical,Restart the device and pair it again through the app.
+Send order to a different address,There's a typo in the street name of the address for my order.,Shipping,Update the delivery address before the order ships.
+Update email on account,"Hello support, i changed jobs and need to switch the email on my account to a new one. Thanks.",Account,Update the email address from the account settings page.
+My account has been blocked,i got a message that my account was temporarily blocked for suspicious activity. Thanks.,Account,Verify your identity to unlock the locked account.
+Item arrived broken,Please help. the package contained the wrong size and I want to return it. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Duplicate payment on my card,"Hi, i was charged twice for the same order this month. Please refund one payment. Thanks.",Billing,Request a refund for the duplicate charge through the billing portal.
+How to unsubscribe,"Hello support, please stop my plan from renewing automatically. Please advise.",Billing,Cancel the subscription from the subscription tab in account settings.
+App freezes on startup,the mobile app crashes every time I open it.,Technical,Clear the app cache and update to the latest app version.
+Wrong email on my profile,I entered a typo in my email when signing up and want to correct it. Please advise.,Account,Update the email address from the account settings page.
+Need to return my order,"Hi, the product I received was broken when I opened the box. Thanks.",Shipping,Start a return and request a replacement for the damaged or incorrect item.
+App freezes on startup,The app is stuck on the loading screen and never opens.,Technical,Clear the app cache and update to the latest app version.
+Change my email address,"Hi team, i entered a typo in my email when signing up and want to correct it. Thanks.",Account,Update the email address from the account settings page.
+Invoice for accounting,"Hello support, where can I download the receipt for my recent purchase? This is quite frustrating.",Billing,Download the invoice from the billing history page.
+Invoice for accounting,Please send me the invoice with the tax details for my order. Please advise.,Billing,Download the invoice from the billing history page.
+Login keeps failing,I forgot my password and cannot access my account. Thanks in advance!,Account,Reset the password using the account recovery process.
+My account has been blocked,"Hi team, it says my account is suspended and I need to verify something. What do I do? Thanks.",Account,Verify your identity to unlock the locked account.
+Account suspended after login attempts,I'm locked out because of too many incorrect attempts and the lock isn't lifting. Thanks.,Account,Verify your identity to unlock the locked account.
+Stop auto renewal,please stop my plan from renewing automatically.,Billing,Cancel the subscription from the subscription tab in account settings.
+Forgot my password,"Hi team, lost my password, please help me regain access to my account. This is quite frustrating.",Account,Reset the password using the account recovery process.
+Website not loading,"Hi team, the service appears to be offline. Is there an outage? This is quite frustrating.",Technical,Check the service status page and retry once the outage is resolved.
+Received damaged item,the package contained the wrong size and I want to return it.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Bluetooth pairing fails,pairing keeps timing out when I try to add my device. Thanks in advance!,Technical,Restart the device and pair it again through the app.
+Change my email address,I changed jobs and need to switch the email on my account to a new one. Please advise.,Account,Update the email address from the account settings page.
+Where is my order,How can I check the shipping status of my package?,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Account locked,I got a message that my account was temporarily blocked for suspicious activity. This is quite frustrating.,Account,Verify your identity to unlock the locked account.
+App keeps crashing,"Hi team, the app is stuck on the loading screen and never opens. Please advise.",Technical,Clear the app cache and update to the latest app version.
+Wrong product delivered,the product I received was broken when I opened the box. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+GDPR data erasure,"Hi team, how can I request the erasure of my personal information under GDPR? This is quite frustrating.",Privacy,Submit a data deletion request through the privacy center.
+Order not arrived yet,"Hi team, my delivery is late and I want to know where my parcel is right now. Thanks.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Account locked,"Hi team, i got a message that my account was temporarily blocked for suspicious activity.",Account,Verify your identity to unlock the locked account.
+Need help getting started,Can you explain how to use the reporting feature step by step?,Product,Follow the getting-started guide in the help center for setup steps.
+Stop auto renewal,please stop my plan from renewing automatically. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+Password not working,Urgent: i need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+2FA verification failing,I got a new phone and my authenticator app no longer has my codes. Thanks in advance!,Account,Reconfigure two-factor authentication using your backup codes.
+Request account deletion,Urgent: how can I request the erasure of my personal information under GDPR? Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+Lost my phone 2FA,"Hi team, my authentication codes don't work and I can't pass the verification step. This is quite frustrating.",Account,Reconfigure two-factor authentication using your backup codes.
+Service is down,"Hi team, the whole website is down and I keep getting a server error.",Technical,Check the service status page and retry once the outage is resolved.
+Invoice for accounting,Please help. i can't find my past invoices and need them for reimbursement. Thanks in advance!,Billing,Download the invoice from the billing history page.
+Cannot reach the platform,"Hi team, nothing loads for me and my teammates also can't connect to the platform. Thanks.",Technical,Check the service status page and retry once the outage is resolved.
+Need help getting started,can you explain how to use the reporting feature step by step? Thanks.,Product,Follow the getting-started guide in the help center for setup steps.
+Cancel my subscription,Please help. how do I unsubscribe from the premium plan? I no longer need it. Thanks.,Billing,Cancel the subscription from the subscription tab in account settings.
+How do I set up,Please help. i'm new here and need help setting up my workspace. This is quite frustrating.,Product,Follow the getting-started guide in the help center for setup steps.
+Remove my personal information,Please delete my account and everything associated with it. This is quite frustrating.,Privacy,Submit a data deletion request through the privacy center.
+Stop auto renewal,I want to cancel my subscription before it renews next week.,Billing,Cancel the subscription from the subscription tab in account settings.
+Received damaged item,the product I received was broken when I opened the box. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Order not arrived yet,i need the tracking number for my recent order. This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+2FA verification failing,"Hi, my authentication codes don't work and I can't pass the verification step.",Account,Reconfigure two-factor authentication using your backup codes.
+Track my package,"Hi, my delivery is late and I want to know where my parcel is right now.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Received damaged item,I got a different item than what I ordered. How do I exchange it? Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Login keeps failing,I can't remember my login password. How do I get back in? This is quite frustrating.,Account,Reset the password using the account recovery process.
+Need to return my order,"Hi team, the item is defective and I need to send it back for a replacement.",Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Request billing statement,"Hi team, where can I download the receipt for my recent purchase?",Billing,Download the invoice from the billing history page.
+Need to return my order,Please help. the product I received was broken when I opened the box. Please advise.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Service is down,"Hello support, i get a timeout error on every page since this morning. Thanks in advance!",Technical,Check the service status page and retry once the outage is resolved.
+Device not connecting,"Hi, after a power cut my device stopped syncing with the app.",Technical,Restart the device and pair it again through the app.
+How to unsubscribe,"Cancel my monthly plan, I'm switching to another service.",Billing,Cancel the subscription from the subscription tab in account settings.
+Item arrived broken,The item is defective and I need to send it back for a replacement. This is quite frustrating.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Update email on account,i changed jobs and need to switch the email on my account to a new one. Thanks in advance!,Account,Update the email address from the account settings page.
+Duplicate payment on my card,Urgent: there is a duplicate transaction on my bill. How do I get my money back? Thanks in advance!,Billing,Request a refund for the duplicate charge through the billing portal.
+Cancel my subscription,i want to cancel my subscription before it renews next week. This is quite frustrating.,Billing,Cancel the subscription from the subscription tab in account settings.
+Remove my personal information,I no longer use the service and want my data removed permanently.,Privacy,Submit a data deletion request through the privacy center.
+Order not arrived yet,My delivery is late and I want to know where my parcel is right now. This is quite frustrating.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+My account has been blocked,My account says it is locked after several failed login attempts. Thanks in advance!,Account,Verify your identity to unlock the locked account.
+Stop auto renewal,i'd like to end my membership and avoid future charges.,Billing,Cancel the subscription from the subscription tab in account settings.
+Mobile app not loading,The app is stuck on the loading screen and never opens. Thanks in advance!,Technical,Clear the app cache and update to the latest app version.
+How to unsubscribe,i'd like to end my membership and avoid future charges. This is quite frustrating.,Billing,Cancel the subscription from the subscription tab in account settings.
+GDPR data erasure,I want all of my personal data deleted from your systems.,Privacy,Submit a data deletion request through the privacy center.
+Where can I get my receipt,"Hello support, i can't find my past invoices and need them for reimbursement. Thanks in advance!",Billing,Download the invoice from the billing history page.
+Charged twice,My card was billed double and I need the extra amount returned. Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+Card declined,i got a notice that my last payment failed and I need to update my card details. Thanks.,Billing,Update the payment method in billing settings and retry the payment.
+Refund for extra charge,i was charged twice for the same order this month. Please refund one payment.,Billing,Request a refund for the duplicate charge through the billing portal.
+Need to update address on order,"Hello support, i entered the wrong shipping address on my order. Can I change it? This is quite frustrating.",Shipping,Update the delivery address before the order ships.
+Remove my personal information,Please delete my account and everything associated with it.,Privacy,Submit a data deletion request through the privacy center.
+Website not loading,The service appears to be offline. Is there an outage? Please advise.,Technical,Check the service status page and retry once the outage is resolved.
+Wrong shipping address,Please update the delivery address on my pending order. Thanks in advance!,Shipping,Update the delivery address before the order ships.
+Received damaged item,"Hi team, my order arrived damaged and I would like a replacement. Thanks.",Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Need invoice copy,I can't find my past invoices and need them for reimbursement.,Billing,Download the invoice from the billing history page.
+Need help getting started,I can't figure out how to get started after signing up.,Product,Follow the getting-started guide in the help center for setup steps.
+Need to use a new email,Please help me change the email linked to my account. Thanks.,Account,Update the email address from the account settings page.
+Locked out too many attempts,it says my account is suspended and I need to verify something. What do I do?,Account,Verify your identity to unlock the locked account.
+Can't sign in to my account,my password doesn't work anymore and I can't get into my account.,Account,Reset the password using the account recovery process.
+Account locked,It says my account is suspended and I need to verify something. What do I do? Please advise.,Account,Verify your identity to unlock the locked account.
+Wrong email on my profile,I changed jobs and need to switch the email on my account to a new one.,Account,Update the email address from the account settings page.
+Cannot pair my device,"Hi team, after a power cut my device stopped syncing with the app.",Technical,Restart the device and pair it again through the app.
+Wrong shipping address,Urgent: my order should go to my office instead of my home address.,Shipping,Update the delivery address before the order ships.
+Need to return my order,The item is defective and I need to send it back for a replacement. This is quite frustrating.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Need to return my order,i got a different item than what I ordered. How do I exchange it?,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Stop auto renewal,"Hi, please stop my plan from renewing automatically. Please advise.",Billing,Cancel the subscription from the subscription tab in account settings.
+Card declined,"Urgent: billing failed on my subscription renewal, please help me fix the card. Thanks.",Billing,Update the payment method in billing settings and retry the payment.
+Cannot pair my device,My device shows offline in the app and won't reconnect.,Technical,Restart the device and pair it again through the app.
+Duplicate payment on my card,I see two identical charges on my credit card statement for one subscription.,Billing,Request a refund for the duplicate charge through the billing portal.
+Service is down,nothing loads for me and my teammates also can't connect to the platform.,Technical,Check the service status page and retry once the outage is resolved.
+Cannot pair my device,The device lost its connection and doesn't appear in the app anymore. Please advise.,Technical,Restart the device and pair it again through the app.
+How do I set up,I need a walkthrough on how to invite my team and set up permissions.,Product,Follow the getting-started guide in the help center for setup steps.
+Duplicate payment on my card,There is a duplicate transaction on my bill. How do I get my money back? Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+Mobile app not loading,Urgent: since the last update the app freezes and lags a lot. Thanks in advance!,Technical,Clear the app cache and update to the latest app version.
+Login keeps failing,i forgot my password and cannot access my account. Please advise.,Account,Reset the password using the account recovery process.
+Login keeps failing,I forgot my password and cannot access my account. Thanks.,Account,Reset the password using the account recovery process.
+App keeps crashing,Since the last update the app freezes and lags a lot.,Technical,Clear the app cache and update to the latest app version.
+Cannot pair my device,The device lost its connection and doesn't appear in the app anymore. Thanks.,Technical,Restart the device and pair it again through the app.
+Cannot pair my device,"I can't pair the device over Bluetooth, it keeps failing. Thanks in advance!",Technical,Restart the device and pair it again through the app.
+Getting server error 500,"Hi team, i get a timeout error on every page since this morning.",Technical,Check the service status page and retry once the outage is resolved.
+Delete my data,i no longer use the service and want my data removed permanently. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Wrong email on my profile,"Please help. my old email address is no longer active, how do I update it?",Account,Update the email address from the account settings page.
+How to use a feature,i need a walkthrough on how to invite my team and set up permissions. Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+Send order to a different address,I moved recently and need my package sent to my new address. Thanks in advance!,Shipping,Update the delivery address before the order ships.
+Bluetooth pairing fails,Urgent: pairing keeps timing out when I try to add my device. Please advise.,Technical,Restart the device and pair it again through the app.
+Duplicate payment on my card,I was charged twice for the same order this month. Please refund one payment.,Billing,Request a refund for the duplicate charge through the billing portal.
+Remove my personal information,"Hello support, i want all of my personal data deleted from your systems.",Privacy,Submit a data deletion request through the privacy center.
+Setup instructions,can you explain how to use the reporting feature step by step? Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+Website not loading,nothing loads for me and my teammates also can't connect to the platform. This is quite frustrating.,Technical,Check the service status page and retry once the outage is resolved.
+Unable to log in,I need to change my password because I'm locked out of my profile.,Account,Reset the password using the account recovery process.
+Order not arrived yet,"Hi team, how can I check the shipping status of my package?",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Order not arrived yet,The estimated delivery date has passed and I haven't received anything.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Unable to complete payment,"Hello support, i got a notice that my last payment failed and I need to update my card details.",Billing,Update the payment method in billing settings and retry the payment.
+Login keeps failing,my password doesn't work anymore and I can't get into my account.,Account,Reset the password using the account recovery process.
+Remove my personal information,how can I request the erasure of my personal information under GDPR? Please advise.,Privacy,Submit a data deletion request through the privacy center.
+Password not working,my password doesn't work anymore and I can't get into my account.,Account,Reset the password using the account recovery process.
+Request billing statement,Urgent: my finance team needs a PDF invoice for our subscription payment. Please advise.,Billing,Download the invoice from the billing history page.
+Double billing this month,I see two identical charges on my credit card statement for one subscription. Please advise.,Billing,Request a refund for the duplicate charge through the billing portal.
+Can't sign in to my account,My password doesn't work anymore and I can't get into my account. Thanks.,Account,Reset the password using the account recovery process.
+Authenticator app issue,Please help. i lost the phone that I use for 2FA and can't sign in. This is quite frustrating.,Account,Reconfigure two-factor authentication using your backup codes.
+Setup instructions,Urgent: can you explain how to use the reporting feature step by step? Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+Delete my data,How can I request the erasure of my personal information under GDPR? Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+GDPR data erasure,I no longer use the service and want my data removed permanently. Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+Account suspended after login attempts,I got a message that my account was temporarily blocked for suspicious activity.,Account,Verify your identity to unlock the locked account.
+Authenticator app issue,i got a new phone and my authenticator app no longer has my codes. This is quite frustrating.,Account,Reconfigure two-factor authentication using your backup codes.
+Locked out too many attempts,it says my account is suspended and I need to verify something. What do I do? Thanks in advance!,Account,Verify your identity to unlock the locked account.
+Invoice for accounting,Please send me the invoice with the tax details for my order.,Billing,Download the invoice from the billing history page.
+Card declined,"Hi, the payment keeps failing even though my card is valid.",Billing,Update the payment method in billing settings and retry the payment.
+How do I set up,Can you explain how to use the reporting feature step by step?,Product,Follow the getting-started guide in the help center for setup steps.
+Service is down,The service appears to be offline. Is there an outage? Thanks in advance!,Technical,Check the service status page and retry once the outage is resolved.
+How to unsubscribe,How do I unsubscribe from the premium plan? I no longer need it. Please advise.,Billing,Cancel the subscription from the subscription tab in account settings.
+Card declined,The payment keeps failing even though my card is valid. Please advise.,Billing,Update the payment method in billing settings and retry the payment.
+App is very slow,The app is stuck on the loading screen and never opens.,Technical,Clear the app cache and update to the latest app version.
+Change delivery address,"Hi team, there's a typo in the street name of the address for my order. This is quite frustrating.",Shipping,Update the delivery address before the order ships.
+My account has been blocked,I'm locked out because of too many incorrect attempts and the lock isn't lifting.,Account,Verify your identity to unlock the locked account.
+Payment method expired,"Hi, i got a notice that my last payment failed and I need to update my card details.",Billing,Update the payment method in billing settings and retry the payment.
+Forgot my password,Urgent: every time I enter my password it says incorrect. I think I forgot it. Please advise.,Account,Reset the password using the account recovery process.
+Need invoice copy,I need a copy of last month's invoice for my accounting records.,Billing,Download the invoice from the billing history page.
+Need invoice copy,"Hello support, i need a copy of last month's invoice for my accounting records. Please advise.",Billing,Download the invoice from the billing history page.
+Double billing this month,I was overcharged due to a repeated payment and want a refund.,Billing,Request a refund for the duplicate charge through the billing portal.
+Password not working,I can't remember my login password. How do I get back in?,Account,Reset the password using the account recovery process.
+Where can I get my receipt,Urgent: where can I download the receipt for my recent purchase? Please advise.,Billing,Download the invoice from the billing history page.
+End my plan,I want to cancel my subscription before it renews next week.,Billing,Cancel the subscription from the subscription tab in account settings.
+Duplicate payment on my card,there is a duplicate transaction on my bill. How do I get my money back?,Billing,Request a refund for the duplicate charge through the billing portal.
+Order not arrived yet,I need the tracking number for my recent order.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Getting server error 500,The service appears to be offline. Is there an outage? Please advise.,Technical,Check the service status page and retry once the outage is resolved.
+My account has been blocked,account locked after I typed the wrong code too many times. Please advise.,Account,Verify your identity to unlock the locked account.
+Send order to a different address,i entered the wrong shipping address on my order. Can I change it?,Shipping,Update the delivery address before the order ships.
+How do I set up,Urgent: i can't figure out how to get started after signing up. Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+App freezes on startup,"Hi team, the app is stuck on the loading screen and never opens. Thanks in advance!",Technical,Clear the app cache and update to the latest app version.
+Need to return my order,the item is defective and I need to send it back for a replacement.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Need help getting started,I need a walkthrough on how to invite my team and set up permissions.,Product,Follow the getting-started guide in the help center for setup steps.
+Refund for extra charge,I see two identical charges on my credit card statement for one subscription.,Billing,Request a refund for the duplicate charge through the billing portal.
+Wrong email on my profile,"Hi team, i changed jobs and need to switch the email on my account to a new one. Please advise.",Account,Update the email address from the account settings page.
+Refund for extra charge,"Hi team, i was charged twice for the same order this month. Please refund one payment. Thanks.",Billing,Request a refund for the duplicate charge through the billing portal.
+Account locked,"Hi team, i got a message that my account was temporarily blocked for suspicious activity. Please advise.",Account,Verify your identity to unlock the locked account.
+Delivery taking too long,Please help. i placed an order a week ago and it still hasn't arrived. Where is it?,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Request account deletion,i'd like to know how to have my profile and history erased.,Privacy,Submit a data deletion request through the privacy center.
+Where can I get my receipt,please send me the invoice with the tax details for my order.,Billing,Download the invoice from the billing history page.
+Stop auto renewal,I'd like to end my membership and avoid future charges. Thanks in advance!,Billing,Cancel the subscription from the subscription tab in account settings.
+End my plan,"Cancel my monthly plan, I'm switching to another service.",Billing,Cancel the subscription from the subscription tab in account settings.
+How do I set up,I need a walkthrough on how to invite my team and set up permissions. Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+My account has been blocked,Account locked after I typed the wrong code too many times. This is quite frustrating.,Account,Verify your identity to unlock the locked account.
+Charged twice,"Hi team, i see two identical charges on my credit card statement for one subscription. Please advise.",Billing,Request a refund for the duplicate charge through the billing portal.
+Cancel my subscription,"Hi, i'd like to end my membership and avoid future charges.",Billing,Cancel the subscription from the subscription tab in account settings.
+Wrong shipping address,my order should go to my office instead of my home address.,Shipping,Update the delivery address before the order ships.
+Mobile app not loading,the app is stuck on the loading screen and never opens.,Technical,Clear the app cache and update to the latest app version.
+Send order to a different address,My order should go to my office instead of my home address.,Shipping,Update the delivery address before the order ships.
+App keeps crashing,The app is stuck on the loading screen and never opens. Please advise.,Technical,Clear the app cache and update to the latest app version.
+Forgot my password,Please help. i forgot my password and cannot access my account.,Account,Reset the password using the account recovery process.
+Payment failed,"Hi, my payment was declined because my card expired. How can I use a new card? This is quite frustrating.",Billing,Update the payment method in billing settings and retry the payment.
+Lost my phone 2FA,"Hi, i lost the phone that I use for 2FA and can't sign in.",Account,Reconfigure two-factor authentication using your backup codes.
+Authenticator app issue,my authentication codes don't work and I can't pass the verification step.,Account,Reconfigure two-factor authentication using your backup codes.
+Delivery taking too long,"Hi, i placed an order a week ago and it still hasn't arrived. Where is it?",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Request billing statement,Please send me the invoice with the tax details for my order.,Billing,Download the invoice from the billing history page.
+Where can I get my receipt,my finance team needs a PDF invoice for our subscription payment. Thanks.,Billing,Download the invoice from the billing history page.
+Received damaged item,my order arrived damaged and I would like a replacement. Thanks.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Getting server error 500,nothing loads for me and my teammates also can't connect to the platform. Thanks in advance!,Technical,Check the service status page and retry once the outage is resolved.
+Getting server error 500,"Hi, nothing loads for me and my teammates also can't connect to the platform. Please advise.",Technical,Check the service status page and retry once the outage is resolved.
+Track my package,"Hi, the estimated delivery date has passed and I haven't received anything.",Shipping,Track the order using the tracking link in the shipping confirmation email.
+Delivery taking too long,my delivery is late and I want to know where my parcel is right now. Thanks.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Account locked,"Hi team, i'm locked out because of too many incorrect attempts and the lock isn't lifting. This is quite frustrating.",Account,Verify your identity to unlock the locked account.
+Delivery taking too long,My delivery is late and I want to know where my parcel is right now. Thanks in advance!,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Change delivery address,my order should go to my office instead of my home address.,Shipping,Update the delivery address before the order ships.
+Request account deletion,I no longer use the service and want my data removed permanently.,Privacy,Submit a data deletion request through the privacy center.
+Where is my order,Please help. i placed an order a week ago and it still hasn't arrived. Where is it? Thanks in advance!,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Need invoice copy,"Hi team, where can I download the receipt for my recent purchase?",Billing,Download the invoice from the billing history page.
+Bluetooth pairing fails,My device shows offline in the app and won't reconnect. Please advise.,Technical,Restart the device and pair it again through the app.
+How do I set up,I'm new here and need help setting up my workspace.,Product,Follow the getting-started guide in the help center for setup steps.
+Order not arrived yet,I need the tracking number for my recent order. Please advise.,Shipping,Track the order using the tracking link in the shipping confirmation email.
+Cancel my subscription,I'd like to end my membership and avoid future charges.,Billing,Cancel the subscription from the subscription tab in account settings.
+My account has been blocked,It says my account is suspended and I need to verify something. What do I do? This is quite frustrating.,Account,Verify your identity to unlock the locked account.
+2FA verification failing,I never receive the SMS verification code for two-factor login.,Account,Reconfigure two-factor authentication using your backup codes.
+Invoice for accounting,"Hi, please send me the invoice with the tax details for my order. Thanks.",Billing,Download the invoice from the billing history page.
+Cancel my subscription,"Hi, i want to cancel my subscription before it renews next week. Please advise.",Billing,Cancel the subscription from the subscription tab in account settings.
+Received damaged item,The package contained the wrong size and I want to return it.,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Change my email address,"Hello support, please help me change the email linked to my account. Please advise.",Account,Update the email address from the account settings page.
+Request account deletion,how can I request the erasure of my personal information under GDPR? Please advise.,Privacy,Submit a data deletion request through the privacy center.
+Send order to a different address,There's a typo in the street name of the address for my order. Thanks.,Shipping,Update the delivery address before the order ships.
+Payment method expired,Credit card declined at checkout and I want to try a different payment method.,Billing,Update the payment method in billing settings and retry the payment.
+Update email on account,"Hi team, i want my notifications going to a different email address.",Account,Update the email address from the account settings page.
+Request account deletion,I no longer use the service and want my data removed permanently. Thanks.,Privacy,Submit a data deletion request through the privacy center.
+Password not working,I can't remember my login password. How do I get back in? Thanks in advance!,Account,Reset the password using the account recovery process.
+Lost my phone 2FA,I lost the phone that I use for 2FA and can't sign in. Thanks.,Account,Reconfigure two-factor authentication using your backup codes.
+GDPR data erasure,Please delete my account and everything associated with it.,Privacy,Submit a data deletion request through the privacy center.
+Cannot pair my device,my device shows offline in the app and won't reconnect.,Technical,Restart the device and pair it again through the app.
+Remove my personal information,I'd like to know how to have my profile and history erased. Thanks in advance!,Privacy,Submit a data deletion request through the privacy center.
+GDPR data erasure,How can I request the erasure of my personal information under GDPR?,Privacy,Submit a data deletion request through the privacy center.
+Received damaged item,"Hello support, my order arrived damaged and I would like a replacement.",Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Need invoice copy,My finance team needs a PDF invoice for our subscription payment. Thanks in advance!,Billing,Download the invoice from the billing history page.
+Website not loading,Urgent: the service appears to be offline. Is there an outage? Thanks.,Technical,Check the service status page and retry once the outage is resolved.
+Account locked,I got a message that my account was temporarily blocked for suspicious activity. Please advise.,Account,Verify your identity to unlock the locked account.
+How do I set up,Please help. i need a walkthrough on how to invite my team and set up permissions. Please advise.,Product,Follow the getting-started guide in the help center for setup steps.
+Wrong product delivered,The package contained the wrong size and I want to return it. Thanks in advance!,Shipping,Start a return and request a replacement for the damaged or incorrect item.
+Need invoice copy,I can't find my past invoices and need them for reimbursement. Please advise.,Billing,Download the invoice from the billing history page.
+Authenticator app issue,"Hello support, the two-factor verification code is always rejected when I log in. Thanks.",Account,Reconfigure two-factor authentication using your backup codes.
+Authenticator app issue,Urgent: my authentication codes don't work and I can't pass the verification step.,Account,Reconfigure two-factor authentication using your backup codes.
+Locked out too many attempts,Please help. i got a message that my account was temporarily blocked for suspicious activity. Thanks.,Account,Verify your identity to unlock the locked account.
+How to use a feature,"Hello support, i'm new here and need help setting up my workspace. Thanks in advance!",Product,Follow the getting-started guide in the help center for setup steps.
+App keeps crashing,The application closes by itself right after launch.,Technical,Clear the app cache and update to the latest app version.
+Where can I get my receipt,Please help. please send me the invoice with the tax details for my order. This is quite frustrating.,Billing,Download the invoice from the billing history page.
+Password not working,"Hi, lost my password, please help me regain access to my account.",Account,Reset the password using the account recovery process.
+Payment method expired,Urgent: my payment was declined because my card expired. How can I use a new card?,Billing,Update the payment method in billing settings and retry the payment.
