@@ -1,5 +1,7 @@
 # AI Customer Ticket Response System
 
+Demo video : https://drive.google.com/file/d/17Y4JNiq35w0WzjOG-S6QwWG8aADlDfWB/view?usp=sharing
+
 A web app for managing customer support tickets. When a ticket is created, a **local ML model** predicts a one-line solution, then a **local LLM with RAG** expands it into a detailed, customer-friendly reply grounded in a local knowledge base. The agent reviews, edits and saves the final response.
 
 **Everything runs locally. No cloud AI APIs, no API keys, no secrets.**
